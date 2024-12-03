@@ -17,7 +17,7 @@
     "@solana/wallet-adapter-base": "^0.5.2",
     "@solana/wallet-adapter-phantom": "^0.5.2",
     "@solana/wallet-adapter-react": "^0.15.9",
-    "@solana/wallet-adapter-wallets": "^0.17.2",
+    "@solana/wallet-adapter-wallets": "^0.19.21",
     "@solana/web3.js": "^1.25.0",
     "craco-alias": "^3.0.1",
     "lodash-es": "^4.17.21",
